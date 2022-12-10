@@ -1,7 +1,7 @@
 # Interacting_rating_component
 
-![](Assets/img/print-page-1.jpg)
-![](Assets/img/print-page-2.jpg)
+![](assets/img/print-page-1.jpg)
+![](assets/img/print-page-2.jpg)
 
 ## :memo: Descrição do Projeto
 
